@@ -44,4 +44,4 @@ ps：作者逝初中生，维护精力有限
 爱国 敬业 诚信 友善
 
 [![主页]](https://www.gohaochen.eu.org)  
-[头像]:https://www.gohaochen.eu.org/头像.png "头像"  
+[主页]:https://www.gohaochen.eu.org/头像.png "头像"  
